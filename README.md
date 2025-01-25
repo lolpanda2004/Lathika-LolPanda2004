@@ -75,11 +75,11 @@ Employing deep learning, this project aids in early detection of lung cancer, sh
 ### GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolpanda2004&show_icons=true&theme=radical)
 
-### Contribution Trends
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=lolpanda2004&theme=redical)
+### Language Breakdown
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lolpanda2004&layout=compact&theme=radical)
 
-### Programming Languages Breakdown
-![Language Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=lolpanda2004&layout=compact&theme=radical)
+### Total Lines of Code
+![Total Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-1.2%20million-brightgreen?style=flat-square)
 
 ---
 
